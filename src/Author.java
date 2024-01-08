@@ -10,7 +10,6 @@ public class Author {
         this.firstName = firstName;
         this.secondName = secondName;
     }
-
     public String getFirstName() {
         return firstName;
     }
