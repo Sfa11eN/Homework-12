@@ -2,9 +2,9 @@ import java.util.Objects;
 
 public class Author {
 
-    public String firstName;
+    private String firstName;
 
-    public String secondName;
+    private String secondName;
 
     public Author(String firstName, String secondName) {
         this.firstName = firstName;
