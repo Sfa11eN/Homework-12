@@ -1,14 +1,14 @@
 import java.util.Objects;
 
 public class Book {
-   private String bookName;
+    private String bookName;
     private Author author;
     public int yearOfPublishing;
 
-    public Book(String bookName,Author author,int yearOfPublishing) {
-        this.bookName=bookName;
-        this.author=author;
-        this.yearOfPublishing=yearOfPublishing;
+    public Book(String bookName, Author author, int yearOfPublishing) {
+        this.bookName = bookName;
+        this.author = author;
+        this.yearOfPublishing = yearOfPublishing;
 
     }
 
