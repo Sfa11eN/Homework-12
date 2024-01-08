@@ -9,8 +9,6 @@ public class Book {
         this.bookName=bookName;
         this.author=author;
         this.yearOfPublishing=yearOfPublishing;
-
-
     }
 
     public String getBookName() {

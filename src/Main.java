@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Обьекты и классы");
 
-        Author fisher = new Author(" Сэм ", " Фишер ");
+        Author fisher = new Author(" Сэм ", " Фишер  ");
         Author croft = new Author("Лара ", " Крофт");
 
         Book artOfStelthKills = new Book("Исскуство незаметных убийств", fisher, 2013);
